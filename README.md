@@ -1,6 +1,6 @@
 # Scroll Animation
 
-![cover](./assets/scroll.gif)
+![cover](./scroll.gif)
 
 ## 🦉 Main information
 
